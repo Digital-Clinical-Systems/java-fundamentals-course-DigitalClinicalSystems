@@ -77,9 +77,13 @@ Ahora mostremos todo en pantalla. Ya conocemos `println`. Pero aquí hay algo nu
 Si escribo `"Jugador: " + nombreJugador`, Java pega el texto "Jugador:" con lo que haya en la caja. [pausa] Y sale "Jugador: ShadowFox". A eso se le llama concatenar.
 
 *(se escriben los println)*
-Hago lo mismo con el nivel, la vida, las monedas… Y en esta línea, la de "te faltan tantos puntos para el nivel", fíjate que puse `nivel + 1` entre paréntesis. ¿Por qué? Porque si no pongo paréntesis, Java pega el texto con el doce y luego pega un uno, y te sale "121". [pausa] Con paréntesis primero hace la suma, y sale trece. Ese error es súper común, así que guárdalo.
+Hago lo mismo con el nivel. Y ahora una línea que dice "te faltan tantos puntos para el nivel…" y le pongo `nivel + 1`, porque quiero el siguiente nivel. Run…
 
-Run… [pausa larga] Ahí está nuestro personaje completito.
+[pausa] ¿Nivel ciento veintiuno? [pausa] Ja, ¿qué pasó? Lo que pasó es que Java va pegando de izquierda a derecha: pegó el texto con el doce, y después pegó un uno. Doce y uno, "121".
+
+La solución: paréntesis. `(nivel + 1)`. Así Java primero hace la suma y recién después la pega. Run… trece. Ahora sí. Ese error es súper común, así que guárdalo.
+
+Agrego la vida, las monedas, el ataque, la precisión y el escudo. Run… [pausa larga] Ahí está nuestro personaje completito.
 
 ## Escena 6 · Ojo con la división (6:15 – 6:50)
 
