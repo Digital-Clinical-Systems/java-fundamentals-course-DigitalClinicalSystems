@@ -36,7 +36,7 @@ El getter es un método público que solo **devuelve** el dato. `public int getE
 
 El setter es un método público que **cambia** el dato. Pero con reglas. `public void setEnergia(int energia)`. Y adentro: si la energía que me mandan es menor a cero, guardo cero. Si es mayor a cien, guardo cien. Y si no, guardo lo que me mandaron.
 
-[pausa] ¿Ves la diferencia? Antes cualquiera podía meter cualquier número. Ahora, para cambiar la energía, **tienes** que pasar por el setter. Y el setter es como el portero de la discoteca: revisa que todo esté en orden antes de dejar pasar.
+[pausa] ¿Ves la diferencia? Antes cualquiera podía meter cualquier número. Ahora, para cambiar la energía, **tienes** que pasar por el setter. Y el setter es como el portero del colegio: revisa que todo esté en orden antes de dejarte pasar.
 
 Y un detalle: en el constructor, en vez de guardar la energía directo, uso `setEnergia`. Así la regla se cumple desde que la mascota nace.
 
