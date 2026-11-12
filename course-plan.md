@@ -107,11 +107,11 @@ Período 202620
 NRC 7747
 
 **Nombre del equipo**: Digital Clinical Systems
-**Líder del equipo**: [Nombres y Apellidos]
+**Líder del equipo**: Oskar Rodrigo Sosa Soto
 **Integrantes del equipo**:
 - Johan Giovani Huaman Cuba
 - Mathias Joaquin Acuache Lucas 
-- [Nombres y Apellidos]
+- Oskar Rodrigo Sosa Soto
 - [Nombres y Apellidos]
 
-**Fecha de entrega**: [Fecha]
+**Fecha de entrega**: 12/11/2026
