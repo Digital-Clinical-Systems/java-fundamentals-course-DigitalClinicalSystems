@@ -104,13 +104,13 @@ Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software
 Período 202620
 1ASI0729 Desarrollo de Aplicaciones Open Source
-NRC [Número de NRC]
+NRC 7747
 
 **Nombre del equipo**: Digital Clinical Systems
 **Líder del equipo**: [Nombres y Apellidos]
 **Integrantes del equipo**:
 - Johan Giovani Huaman Cuba
-- [Nombres y Apellidos]
+- Mathias Joaquin Acuache Lucas 
 - [Nombres y Apellidos]
 - [Nombres y Apellidos]
 
