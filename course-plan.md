@@ -11,6 +11,8 @@ Este curso de 1 hora te lleva desde "nunca he programado" hasta tu primer progra
 **Editor online recomendado**: [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) (gratis y sin registro). Alternativa: [JDoodle](https://www.jdoodle.com/online-java-compiler).
 
 **📂 Repositorio de Código Fuente**: [https://github.com/Digital-Clinical-Systems/java-fundamentals-course-DigitalClinicalSystems](https://github.com/Digital-Clinical-Systems/java-fundamentals-course-DigitalClinicalSystems)
+**Videos de Fundamentos de Java Para Principiantes** https://youtube.com/playlist?list=PLJDAmXpOVf-g&si=5wsLhMH7bMtjJ1OZ:
+
 
 ## Secuencia de la Lección
 
