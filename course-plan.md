@@ -112,6 +112,6 @@ NRC 7747
 - Johan Giovani Huaman Cuba
 - Mathias Joaquin Acuache Lucas 
 - Oskar Rodrigo Sosa Soto
-- [Nombres y Apellidos]
+- Angel Andres Valdez Melo
 
 **Fecha de entrega**: 12/11/2026
