@@ -115,5 +115,6 @@ NRC 7747
 - Mathias Joaquin Acuache Lucas 
 - Oskar Rodrigo Sosa Soto
 - Angel Andres Valdez Melo
+- Johnny Alexander Ojanama Abanto
 
 **Fecha de entrega**: 12/11/2026
